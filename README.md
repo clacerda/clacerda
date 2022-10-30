@@ -1,6 +1,6 @@
 ### Olá, visitante 👋
   
-- 🌱 Estou estudando node.js, react, nest e web3.
+- 🌱 Estou estudando node.js, react, e web3.
 - 🐱‍👤 Trabalho com dot.net 4.5, Classic ASP, VB6 - Possuo grande experiência em integrações de marcas (M&A).
 - 😎 Hoje estou atuando como tech leader na Emphasys IT. 
 - 💬 Adorarei conversar sobre web3, ecoin, nft, DAO, IOT e similares.
