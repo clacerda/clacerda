@@ -2,7 +2,7 @@
   
 - 🌱 Estou estudando node.js, react, e web3.
 - 🐱‍👤 Trabalho com dot.net 4.5, Classic ASP, VB6 - Possuo grande experiência em integrações de marcas (M&A).
-- 😎 Hoje estou atuando como tech leader na Emphasys IT. 
+- 😎 Estou atuando como tech leader para uma das maiores empresas de saúde do Brasil, cuidando e mantendo sistemas. 
 - 💬 Adorarei conversar sobre web3, ecoin, nft, DAO, IOT e similares.
 
 👀 Parte do meu trajeto profissional foi em análise de negócios e projetos de TI, outra parte em dev e soluções tecnológicas (sistêmicas). Eu busco equalizar as melhores práticas com as necessidades do business do mundo real.
