@@ -1,7 +1,7 @@
 ### Olá, visitante 👋
   
 - 🌱 Estou estudando node.js, react, e web3.
-- 🐱‍👤 Trabalho com dot.net 4.5, Classic ASP, VB6 - Possuo grande experiência em integrações de marcas (M&A).
+- 🐱‍👤 Desenvolvi com dot.net até a versão 4.5, vb6 e classic ASP. Tenho know-how em sustenção e hoje atuo fortemente com M&A.
 - 😎 Estou atuando como tech leader para uma das maiores empresas de saúde do Brasil, cuidando e mantendo sistemas. 
 - 💬 Adorarei conversar sobre web3, ecoin, nft, DAO, IOT e similares.
 
