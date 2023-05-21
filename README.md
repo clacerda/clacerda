@@ -1,9 +1,9 @@
 ### Olá, visitante 👋
   
-- 🌱 Estou estudando node.js, react, e web3.
-- 🐱‍👤 Desenvolvi com dot.net até a versão 4.5, vb6 e classic ASP. Tenho know-how em sustenção e hoje atuo fortemente com M&A.
-- 😎 Estou atuando como tech leader para uma das maiores empresas de saúde do Brasil, cuidando e mantendo sistemas. 
-- 💬 Adorarei conversar sobre web3, ecoin, nft, DAO, IOT e similares.
+- 🌱 Atualmente busco experiência em web3, frameworks JS, e devOps.
+- 🐱‍👤 Experiência com dot.net até a versão 4.5, vb6 e classic ASP. Larga experiência em sustentação de sistemas, análise de negócios e levantamento de requisitos.
+- 😎 Estou atuando como tech leader para uma das maiores empresas de saúde do Brasil, cuidando e mantendo sistemas legados e incorporando marcas adquiridas. 
+- 💬 Adorarei conversar sobre web3, ecoin/ efinance, nft, DAO, e similares.
 
 👀 Parte do meu trajeto profissional foi em análise de negócios e projetos de TI, outra parte em dev e soluções tecnológicas (sistêmicas). Eu busco equalizar as melhores práticas com as necessidades do business do mundo real.
 
