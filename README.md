@@ -1,7 +1,7 @@
 ### Olá, visitante 👋
   
-- 🌱 Sou uma pessoa com mente aberta para tecnologia e suas inovações.
-- 🐱‍👤 Experiência com dot.net até a versão 4.5 - me atualizando, vb6 e classic ASP. Larga experiência em sustentação de sistemas, análise de negócios e levantamento de requisitos.
+- 🌱 Sou uma pessoa com mente aberta para a tecnologia e suas inovações.
+- 🐱‍👤 Experiência como Tech Lead em C# e ASP.Net, SQL Server, MongoDB, AWS, Visual Basic 6 e ASP (Classic). Larga experiência em sustentação de sistemas, análise de negócios e levantamento de requisitos.
 - 😎 Estou em busca de novos projetos.
 - 💬 Adorarei conversar sobre dot.net, sistemas legados, web3, ecoin/ efinance, nft, DAO, e similares.
 
@@ -19,9 +19,5 @@
   <div><a href="https://www.linkedin.com/in/claudiovieirajr">Visite meu linkedIn ✔ </a></div>
   <div>
     <a href="https://www.linkedin.com/in/claudiovieirajr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-    
-    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     
   </div>
